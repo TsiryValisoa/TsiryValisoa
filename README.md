@@ -3,7 +3,7 @@
 <h3 align="center">I am a passionate backend developer based in Madagascar.</h3>
 <br>
 - 💻🍂 Everything you see here are my personal projects 🤗 <br>
-- 💬 You can reach me from my linkedin : **https://www.linkedin.com/in/rotsiniaina-tsiry-valisoa-ratolojanahary/** <br>
+- 💬 You can reach me from my linkedin : **https://www.linkedin.com/in/rotsiniaina-tsiry-valisoa-ratolojanahary-6b008724a/** <br>
 - 📫 Or from my personal mail **rotsiniaina.tsiry@gmail.com**
 
 <div> <a href = "mailto:rotsiniaina.tsiry@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
