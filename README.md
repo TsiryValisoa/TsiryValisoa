@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, my name is Tsiry Valisoa</h1>
 <h3 align="center">I am a passionate backend developer based in Madagascar.</h3>
+- 💻🍂 Everything you see here are my personal projects 🤗
 - 💬 You can reach me from my linkedin: **https://www.linkedin.com/in/rotsiniaina-tsiry-valisoa-ratolojanahary/**
 - 📫 Or from my personal mail **rotsiniaina.tsiry@gmail.com**
 
